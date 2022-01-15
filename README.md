@@ -1,10 +1,10 @@
+<img align="right" alt="Matt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hide_border=true" />
+
 ## 👋 Hi there, I’m Matt Espinoza
 
 - 🦄 I’m currently the co-founder of Agora (backed by $DESO)
 - 🧩 I'm currently learning Full-Stack Development
 - 🌱 I'm a CS Major at York University
-
-<img align="left" alt="Matt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hide_border=true" />
 
 <br />
 
