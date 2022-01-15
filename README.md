@@ -40,6 +40,6 @@
 
 
 [linkedin]: https://linkedin.com/in/mattespoz
-[email]: mailto: matt@matthewespinoza.com
+[email]: mailto:matt@matthewespinoza.com
 [website]: https://matthewespinoza.com
 
