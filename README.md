@@ -23,24 +23,6 @@
 [<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Email - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg"/>][email]
 [<img align="left" alt="Website - Matt Espinoza" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg"/>][website]
-      
-
-
-<br />
---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Matt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Matt's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattespoz" />
-
-</details>
 
 
 [linkedin]: https://linkedin.com/in/mattespoz
