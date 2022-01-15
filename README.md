@@ -4,9 +4,6 @@
 - 🧩 I'm currently learning Full-Stack Development
 - 🌱 I'm a CS Major at York University
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ## Languages and Tools (/learning)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -17,11 +14,16 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+## Let's Get in Contact
+[<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
 --
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Matt'ss GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hide_border=true" />
+  <img align="left" alt="Matt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -34,5 +36,6 @@
 
 
 [linkedin]: https://linkedin.com/in/mattespoz
-
+[email]: mailto: matt@matthewespinoza.com
+[website]: https://matthewespinoza.com
 
