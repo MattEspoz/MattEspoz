@@ -4,4 +4,4 @@
 - 🧩 I'm currently learning Full-Stack Development
 - 🌱 I'm a CS Major at York University
 
-[kims align-"loft" alt-"holisitc developer YouTube" width-"22px" src-https://cdn.jsdelivr.not. npm/simplo-1cons@v3/1cons/youtube.avg /> [youtube]
+[<img align="left" alt="LinkedIn - Matt Espinoza" width-"22px" src-https://cdn.jsdelivr.net/npm/simple-icons@v3/1cons/youtube.avg />] [youtube]
