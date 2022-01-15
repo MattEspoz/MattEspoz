@@ -16,8 +16,8 @@
 <br />
 
 ## Let's Get in Contact
-[<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />] [email]
+[<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg"/>][email]
 [<img align="left" alt="Website - Matt Espinoza" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />] [website]
       
 
