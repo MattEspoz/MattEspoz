@@ -5,7 +5,7 @@
 - 🌱 I'm a CS Major at York University
 
 
-## Languages and Tools (/learning)
+## Languages and Tools (learning)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -16,6 +16,7 @@
 <br />
 
 ## Let's Get in Contact
+[<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Linkedin - Matt Espinoza" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Email - Matt Espinoza" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />] [email]
 [<img align="left" alt="Website - Matt Espinoza" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />] [website]
