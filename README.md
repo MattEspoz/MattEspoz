@@ -31,3 +31,4 @@ https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hi
 [email]: mailto:matt@matthewespinoza.com
 [website]: https://matthewespinoza.com
 
+![Nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimapourjafar&count_private=true&theme=tokyonight)
