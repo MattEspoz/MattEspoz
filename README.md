@@ -1,6 +1,3 @@
-
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&count_private=true&theme=tokyonight)
-
 ## 👋 Hi there, I’m Matt Espinoza
 
 - 🦄 I’m currently the co-founder of Agora (backed by $DESO)
@@ -30,4 +27,4 @@
 [email]: mailto:matt@matthewespinoza.com
 [website]: https://matthewespinoza.com
 
-
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&count_private=true&theme=tokyonight)
