@@ -19,7 +19,7 @@
 
 ## 💎 Let's Get in Contact
 - 👨🏻‍💻 Website: https://matthewespinoza.com
-- 📬 Email: mailto:matt@matthewespinoza.com
+- 📬 Email: matt@matthewespinoza.com
 - 🥇 LinkedIn: https://linkedin.com/in/mattespoz
 
 <br />
