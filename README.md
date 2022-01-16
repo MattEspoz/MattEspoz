@@ -1,5 +1,5 @@
 <img align="right" alt="Matt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&hide_border=true" />
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&count_private=true&theme=tokyonight)
+[Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&count_private=true&theme=tokyonight)
 
 ## 👋 Hi there, I’m Matt Espinoza
 
