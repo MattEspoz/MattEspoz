@@ -27,4 +27,5 @@
 [email]: mailto:matt@matthewespinoza.com
 [website]: https://matthewespinoza.com
 
+<br />
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&count_private=true&theme=tokyonight)
