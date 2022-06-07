@@ -9,7 +9,7 @@ I'm a CS student at York University that is super interested in full-stack devel
 
 <br />
  
-I'm currently building a couple stealth projects. 😉
+I'm currently building a couple stealth projects 😉
   
 <br />
   
