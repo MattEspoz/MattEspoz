@@ -1,5 +1,5 @@
-<p><img src="/assets/MattEspozReadMe.png" alt="Matthew Espinoza">
-<p align="center">
+<!-- <p><img src="/assets/MattEspozReadMe.png" alt="Matthew Espinoza">
+<p align="center"> -->
 
 # Hi there, I’m [Matt](https://matthewespinoza.com/) 👋
 
