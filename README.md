@@ -7,7 +7,7 @@
 
 I'm a CS student at York University that is super interested in full-stack development, startups, and venture capitalism. 
 
-<br />
+<br /> 
  
 I'm currently building a couple stealth projects 😉
   
@@ -17,8 +17,9 @@ I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](http
 
   <br />
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&count_private=true&theme=tokyonight)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&theme=algolia&hide=stars,issues&bg_color=30,004AAD,3FB2F9&title_color=fff&text_color=fff)
+
 
 <br />
 
-You can find me building the largest web3 developer group at [Inner Circle](https://twitter.com/innercircletech), sharing insights about crypto on my newsletter at [Web3 Club](https://email.matthewespinoza.com/), and shipping new ideas and projects on [Twitter](https://twitter.com/mattespoz)
+You can find me building the largest web3 developer group at [Inner Circle](https://twitter.com/innercircletech), sharing crypto insights on my 1.5K newsletter at [Web3 Club](https://email.matthewespinoza.com/), and shipping new ideas and projects on [Twitter](https://twitter.com/mattespoz)
