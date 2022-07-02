@@ -15,8 +15,6 @@ I'm currently building a couple stealth projects 😉
   
 I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](https://www.tryvirtually.com/) 💎, and co-founded [Agora Labs](https://www.agoralabs.xyz/) 🧩 (VC-Backed Web3 Startup) 
 
-[most of my work is in private repos]
-
   <br />
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&theme=algolia&hide=stars,issues&bg_color=30,004AAD,3FB2F9&title_color=fff&text_color=fff)
