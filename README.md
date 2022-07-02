@@ -17,7 +17,8 @@ I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](http
 
   <br />
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&theme=algolia&hide=stars,issues&bg_color=30,004AAD,3FB2F9&title_color=fff&text_color=fff)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&theme=algolia&hide=stars,issues&bg_color=30,004AAD,3FB2F9&title_color=fff&text_color=fff)](https://github.com/mattespoz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattespoz&repo=solana-gif-marketplace&bg_color=30,004AAD,3FB2F9&title_color=fff&text_color=fff&icon_color=f9f9f9)](https://github.com/MattEspoz/solana-gif-marketplace)
 
 
 <br />
