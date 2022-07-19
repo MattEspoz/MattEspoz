@@ -21,4 +21,4 @@ I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](http
 
 <br />
 
-You can find me building the largest web3 developer group at [Inner Circle](https://twitter.com/innercircletech), sharing crypto insights on my 1.5K newsletter at [Web3 Club](https://email.matthewespinoza.com/), and shipping new ideas and projects on [Twitter](https://twitter.com/mattespoz)
+You can find me building the largest web3 developer group at [Inner Circle](https://twitter.com/innercircletech), sharing crypto insights on my 1.5K newsletter at [Web3 Club](https://email.matthewespinoza.com/), and shipping new ideas and projects on [Twitter](https://twitter.com/mattespoz) 💫
