@@ -13,7 +13,7 @@ I'm currently building a couple stealth projects 😉
   
 <br />
   
-I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](https://www.tryvirtually.com/) 💎, and co-founded [Agora Labs](https://www.agoralabs.xyz/) 🧩 (VC-Backed Web3 Startup) 
+I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](https://www.tryvirtually.com/) 💎, and co-founded [Agora Labs](https://www.agoralabs.xyz/) 🧩 (Acquired by Talent Protocol) 
 
   <br />
 
