@@ -21,4 +21,4 @@ I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](http
 
 <br />
 
-You can find me building the largest invite-only group at [Inner Circle](https://www.innercirclehq.com/), and shipping new ideas and projects on [Twitter](https://twitter.com/mattespoz) 💫
+You can find me building the largest invite-only tech group at [Inner Circle](https://www.innercirclehq.com/), and shipping new ideas and projects on [Twitter](https://twitter.com/mattespoz) 💫
