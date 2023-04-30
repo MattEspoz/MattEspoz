@@ -11,7 +11,7 @@ I'm a CS student that is super interested in full-stack development, startups, a
 I'm currently building a couple stealth projects 😉
   
   
-I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](https://www.tryvirtually.com/) 💎, and co-founded [Agora Labs](https://www.agoralabs.xyz/) 🧩 (Acquired by Talent Protocol) 
+I previously worked at [Meta](https://meta.com/) ☁️, [Virtually (YC20)](https://www.tryvirtually.com/) 💎, and co-founded [Agora Labs](https://www.agoralabs.xyz/) 🧩 (acquired by Talent Protocol) 
 
 ![Matt's's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattespoz&show_icons=true&theme=algolia)      |  ![GitHub Streak](https://streak-stats.demolab.com?user=MattEspoz&theme=algolia)
 :-------------------------:|:-------------------------:
