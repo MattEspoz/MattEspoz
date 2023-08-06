@@ -4,9 +4,6 @@
 # Hi there, I’m [Matt](https://matthewespinoza.com/) 👋
 
 <a href="https://twitter.com/mattespoz" title="Twitter"><img src="/assets/TwitterSM.svg"  height="25" aria-hidden="true"></a> <a href="https://www.linkedin.com/in/mattespoz/" title="LinkedIn"><img src="/assets/LinkedInSM.svg" height="25" aria-hidden="true" style="margin-right: 5px;"></a> <a href="mailto: matt@matthewespinoza.com" title="Email"><img src="/assets/GmailSM.svg" height="25" aria-hidden="true"></a>
-
-=> I'm a CS student and full-stack developer
-
  
 I'm currently building a couple stealth projects 😉
   
